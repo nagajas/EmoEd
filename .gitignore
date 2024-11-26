@@ -1,0 +1,6 @@
+data/all*
+.venv
+.ipynb_checkpoints
+opensmile
+glove*.txt
+c3d*.pth
